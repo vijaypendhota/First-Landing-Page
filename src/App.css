@@ -7,7 +7,7 @@
     
  .navBarsection{
     display: flex;
-    background: url("images/hero-bg.jpg");
+    /* background: url("images/hero-bg.jpg"); */
     height: 100vh;
  }
  .navLeft{
@@ -63,7 +63,7 @@
         height: 100vh;
         color: white;
         position: relative;
-        background: url("images/us-bg.jpg");
+        /* background: url("images/us-bg.jpg"); */
         /* top: 20px;
         margin-left: 200px;
         margin-right: 200px;
